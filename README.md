@@ -63,7 +63,9 @@ This repository contains the complete source code, circuit design, experimental 
 
 ## 👩‍💻 Authors
 - Takia Yasmin  
-- Group Members (Group 08)
+- Joya Rani Saha
+- Rawnak Mahzabin Jyoti
+- 
 
 ---
 
